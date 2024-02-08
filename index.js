@@ -36,11 +36,11 @@ const perguntas = [
       correta: 0
     },
     {
-      pergunta: "Quantos membros compõem o grupo Aespa?",
+      pergunta: "Em que data específica o Aespa fez sua estreia oficial com o single 'Black Mamba'?",
       resposta: [
-        "4",
-        "5",
-        "6",
+        "12 de novembro de 2020",
+        "17 de outubro de 2020",
+        "30 de novembro de 2020",
       ],
       correta: 0
     },
